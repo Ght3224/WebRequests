@@ -13,4 +13,4 @@ all_the_art.each do |art|
 end 
 
 
-Ffaker::
+# Ffaker::Name.times do |faker|
